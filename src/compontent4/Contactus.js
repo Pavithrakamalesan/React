@@ -10,6 +10,14 @@ function Contact() {
       <p>Pin code: 638 012</p>
        <a href="https://www.velalarengg.ac.in/">VCET Website</a>
       </h2>
+      <h1>Students contact</h1>
+
+      <li><a href="https://github.com/Pavithrakamalesan">Contact for Github #Pavithra </a></li>
+      <li><a href="https://github.com/Infobuddie">Contact for Github #Tamilarasi</a></li>
+     <li><a href="https://github.com/Sabarnaloganathan">Contact for Github #Sabarna</a></li>
+      <li><a href="https://github.com/Nathiyamn">Contact for Github #Nathiya</a></li>
+     <li><a href="https://github.com/Suriyasaravanan2">Contact for Github #suriya</a></li>
+     
     </div>
     </center>
   );
